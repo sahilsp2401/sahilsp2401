@@ -21,4 +21,3 @@ Passionate about coding, exploring new technologies, and building innovative sol
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsp2401&show_icons=true&locale=en" alt="sahilsp2401" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsp2401&" alt="sahilsp2401" /></p>
